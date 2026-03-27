@@ -92,7 +92,10 @@ The goal is to uncover patterns, trends, and actionable insights that can help b
 
 ## 📸 Preview
 
-<img width="384" height="568" alt="image" src="https://github.com/user-attachments/assets/d4947466-95f0-4ae9-b090-4ea1f4aec352" />
+<img width="638" height="529" alt="image" src="https://github.com/user-attachments/assets/326c3ecf-0be9-4bae-bd72-1127c3a42437" />
+
+<img width="635" height="400" alt="image" src="https://github.com/user-attachments/assets/c608f657-ecca-47b9-b68b-2d175cfde5da" />
+
 
 
 ---
