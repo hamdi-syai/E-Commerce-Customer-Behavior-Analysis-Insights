@@ -90,9 +90,9 @@ The goal is to uncover patterns, trends, and actionable insights that can help b
 
 ---
 
-## 📸 Sample Visualizations
+## 📸 Preview
 
-(Add screenshots from your notebook here)
+
 
 ---
 
@@ -107,7 +107,7 @@ The goal is to uncover patterns, trends, and actionable insights that can help b
 
 ## 👤 Author
 
-**[Syaibatul Hamdi]**
+**Syaibatul Hamdi**
 Data Developer based in France
 
 ---
